@@ -4,23 +4,35 @@
 
 ###
 
-<h2 align="left">Hi, I'm Sang Duong 👋👨‍💻</h2>
+<h2 align="left" style="font-family:'Segoe UI', sans-serif;">Hi, I'm Sang Duong 👋👨‍💻</h2>
 
 ###
 
-<p align="left">
-I'm a final-year Software Engineering student at HUFLIT University.<br><br>
+<p align="left" style="font-family:'Segoe UI', sans-serif;">
+I'm a final-year Software Engineering student at HUFLIT University.
 </p>
 
 ###
 
-<h2 align="left">Technical Skills 🧠</h2>
+<h2 align="left" style="font-family:'Segoe UI', sans-serif;">Technical Skills 🧠</h2>
 
 ###
 
-<ul align="left">
-  <li><b>Languages:</b> Javascript, Typescript.</li>
-  <li><b>Frameworks & Libraries:</b> Node.js, Express.js, React.js, Next.js, NestJS.</li>
-  <li><b>Databases:</b> MongoDB, PostgreSQL, Redis.</li>
-  <li><b>Tools & Platforms:</b> Postman, Docker, Figma, Github, VSCode.</li>
+<ul align="left" style="font-family:'Segoe UI', sans-serif; line-height:1.7;">
+  <li>
+    <span style="font-weight:700;">Languages:</span>
+    <span>Javascript, Typescript.</span>
+  </li>
+  <li>
+    <span style="font-weight:700;">Frameworks & Libraries:</span>
+    <span>Node.js, Express.js, React.js, Next.js, NestJS.</span>
+  </li>
+  <li>
+    <span style="font-weight:700;">Databases:</span>
+    <span>MongoDB, PostgreSQL, Redis.</span>
+  </li>
+  <li>
+    <span style="font-weight:700;">Tools & Platforms:</span>
+    <span>Postman, Docker, Figma, Github, VSCode.</span>
+  </li>
 </ul>
